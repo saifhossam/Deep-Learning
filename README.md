@@ -11,7 +11,7 @@ This repository explores 3 deep learning architectures for classification tasks:
 ## Architectures Overview
 
 ### ResNet (Residual Networks)
-- Introduced in *"Deep Residual Learning for Image Recognition"* by He et al. (2015).
+- Introduced in *"Deep Residual Learning for Image Classification"* by He et al. (2015).
 - Key Idea: Skip connections to combat vanishing gradients.
 - Implemented from scratch in this project.
 
