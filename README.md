@@ -1,4 +1,3 @@
-# Deep-Learning & Neural Networks
 # Deep Learning Architectures: ResNet, Xception, and DenseNet
 
 ## Project Overview
