@@ -6,8 +6,6 @@ This repository explores 3 deep learning architectures for classification tasks:
 2. **Xception**: Transfer learning with fine-tuning.
 3. **DenseNet**: Transfer learning with fine-tuning.
 
-The project evaluates and compares the performance of these models on a custom dataset.
-
 ---
 
 ## Architectures Overview
