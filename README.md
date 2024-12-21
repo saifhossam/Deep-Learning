@@ -33,7 +33,7 @@ This repository explores 3 deep learning architectures for classification tasks:
 
 ---
 
-## References
+## References (references updated and the actual references for the project are mentioned in the documentation file)
 1. **ResNet**: *He et al., 2015* [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 2. **Xception**: *Chollet, 2017* [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357)
 3. **DenseNet**: *Huang et al., 2017* [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
